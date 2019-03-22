@@ -3,6 +3,8 @@ Educational resource repository
 
 ## Theoretical Statistics
 
+- [Basic Statistics and Probability](https://seeing-theory.brown.edu/)
+
 ## Data Visulaisation
 
 ## Machine Learning Engineering
